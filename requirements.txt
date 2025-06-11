@@ -1,9 +1,9 @@
 streamlit
-numpy
+numpy<2.10
 pandas
 joblib
 matplotlib
 seaborn
 scikit-learn
-tensorflow
+tensorflow==2.14.0
 Pillow
