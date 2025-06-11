@@ -1,0 +1,16 @@
+=== DNN Classification Report ===
+              precision    recall  f1-score   support
+
+     Healthy       0.85      0.78      0.81        50
+    Diseased       0.80      0.86      0.83        50
+
+    accuracy                           0.82       100
+   macro avg       0.82      0.82      0.82       100
+weighted avg       0.82      0.82      0.82       100
+
+
+=== Metrics Summary ===
+Accuracy : 0.8200
+Precision: 0.7963
+Recall   : 0.8600
+F1 Score : 0.8269
