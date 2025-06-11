@@ -5,5 +5,5 @@ joblib
 matplotlib
 seaborn
 scikit-learn
-tensorflow==2.12.0
+tensorflow
 Pillow
