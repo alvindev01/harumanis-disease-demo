@@ -1,5 +1,5 @@
 streamlit
-numpy<2.10
+numpy<2.0
 pandas
 joblib
 matplotlib
